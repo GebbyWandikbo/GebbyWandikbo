@@ -6,7 +6,7 @@
 <h3 align="center">Cybersecurity Researcher | Pentester | Python Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gebbywandikbo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/gebby-wandikbo-3ba5b8309"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
